@@ -1,0 +1,16 @@
+{
+  "name": "insomnia-plugin-hide-history",
+  "version": "1.0",
+  "description": "This plugin hides the request history for those who don't want to expose it",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/santoniodrisman/insomnia-plugin-hide-history#readme",
+  "repository": {
+    "url": "git+https://github.com/santoniodrisman/insomnia-plugin-hide-history.git"
+  },
+  "scripts": {},
+  "insomnia": {
+    "name": "hide-history",
+    "description": ""
+  },
+  "main": "main.js"
+}
